@@ -1,2 +1,3 @@
 # Bionic-Hand
-A #d model of Bionic Hand made on fusion 360
+A 3d model of Bionic Hand made on fusion 360.
+
