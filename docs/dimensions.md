@@ -22,8 +22,6 @@ This document contains the measurement data used as the dimensional reference fo
 | Pinky | — | — | — |
 | Thumb | — | — (N/A) | — |
 
-> 📝 *Fill in your actual measurements here*
-
 ---
 
 ## Joint Widths (mm)
