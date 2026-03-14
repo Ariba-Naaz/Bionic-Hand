@@ -19,11 +19,7 @@ When dimensions were taken from a ruler, the precision was limited, and scaling 
 ### Solution
 - Re-measured key dimensions using a more methodical approach, noting both the length and the width of each phalanx segment
 - Cross-referenced measurements against published anthropometric ratio tables to sanity-check proportions
-- Used **parametric modelling** in Fusion 360 — all joint radii and phalanx lengths were defined as named parameters, making iteration fast and consistent
 - Added small tolerance offsets to joint contact surfaces to allow realistic clearance
-
-### Lesson Learned
-Design for parametric flexibility from the start. Hard-coding dimensions makes iteration slow and error-prone.
 
 ---
 
