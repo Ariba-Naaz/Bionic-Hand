@@ -1,0 +1,17 @@
+# Fusion 360 autosave and backup files
+*.tmp
+*.bak
+*.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fusion 360 recovery files
+*_recovery.*
+
+# Large binary exports (add explicitly if needed)
+# *.stl
+# *.step
+# *.iges
