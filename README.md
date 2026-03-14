@@ -1,23 +1,22 @@
-# 🦾 Bionic Hand — CAD Design Project
+# BIONIC HAND PROJECT
+🦾 Bionic Hand — CAD Design Project
 
-> A CAD model of an anthropomorphic bionic hand designed in **Fusion 360** as part of a first-year robotics project. The model approximates the structure and movements of the human hand, with a focus on learning mechanical joint design fundamentals.
+> The design of a bionic hand involves replicating the intricate movements of the human hand to create a functional, anthropomorphic robotic model. This project focuses on creating a highly detailed CAD model of a bionic hand in Fusion 360, with attention to each finger's movements, thumb articulation, palm arch, and optional wrist mobility. The final design will aim to closely mimic the natural hand's degrees of freedom, providing flexion, extension, abduction, adduction, and rotational movements at key joints. The design is divided into stages to simplify development, each focusing on different parts of the hand.
 
 ---
 
 ## 📌 Project Overview
 
-This project is a **first-year robotics learning exercise** focused on CAD modelling a bionic hand in Fusion 360. The goal was to understand mechanical joint design, assembly workflows, and how to approximate human hand geometry — not to produce a production-ready or anatomically perfect model.
+This project is a **first-year robotics learning exercise** focused on CAD modelling a bionic hand in Fusion 360. The goal was to understand mechanical joint design, assembly workflows, and how to approximate human hand geometry.
 
 The hand geometry and proportions are **approximate**, referenced from my own hand measurements and general online research. The model successfully demonstrates flexion and extension across finger joints and serves as a foundation to build upon in later stages.
 
 | Property | Details |
 |---|---|
 | **Software** | Autodesk Fusion 360 |
-| **Current Stage** | Stage 1 Complete — Finger Flexion & Extension |
-| **Status** | ✅ Complete (Stage 1) · 🔄 Actively Improving |
+| **Status** | ✅ Trying to include more movements· 🔄 Actively Improving |
 | **Movements Implemented** | Flexion, Extension |
 | **Design Basis** | Approximate — self-measured dimensions + online research |
-| **Context** | First-year robotics student project |
 
 ---
 
@@ -64,7 +63,6 @@ This is a **student learning project**, not a professional engineering model. So
 - Finger and palm geometry are **approximations**, not precision anatomical replicas
 - Dimensions were measured roughly from my own hand — no digital caliper or medical reference was used
 - Joint mechanisms are simplified; real prosthetic hands involve significantly more complex geometry
-- Currently only **flexion and extension** are implemented — other degrees of freedom are planned but not yet modelled
 - The model has not been validated for 3D printing or physical fabrication
 
 The primary value of this project is the **learning process**: understanding Fusion 360 workflows, joint mechanics, and the fundamentals of mechanical design in robotics.
@@ -130,12 +128,12 @@ Finger
 ## 🧩 Challenges & Solutions
 
 ### 1. Joint Dimension Accuracy
-**Problem:** Translating real hand measurements into precise CAD geometry was non-trivial. Minor inaccuracies in joint radii caused binding or excessive play in the modelled joints.  
-**Solution:** Iterated on joint dimensions using measured phalanx lengths and widths from my own hand, cross-referenced with published anatomical proportion ratios. Applied parametric constraints in Fusion 360 to allow easy adjustments.
+**Problem:** Translating real hand measurements into precise CAD geometry was non-trivial. Minor inaccuracies in joint radii caused problems in the modelled joints.  
+**Solution:** Iterated on joint dimensions using measured phalanx lengths and widths from my own hand, cross-referenced with published anatomical proportion ratios.
 
 ### 2. Movement Constraints in Fusion 360
 **Problem:** Setting up accurate joint limits for flexion/extension in Fusion 360's joint system required careful understanding of the `As-Built Joint` vs `Joint` workflow, and motion limits were initially misconfigured.  
-**Solution:** Studied Fusion 360's joint documentation and community resources. Switched to a joint-origin-based approach, defining clear parent-child relationships between phalanx components.
+**Solution:** Studied Fusion 360's joint documentation and community resources.
 
 ### 3. Assembly Alignment Issues
 **Problem:** When assembling multiple finger components, misaligned joint origins caused unexpected rotations and component clashing.  
@@ -152,7 +150,7 @@ Finger
 ### Academic / Technical Sources
 - Anthropometric studies on human hand dimensions and joint ranges of motion
 - Biomechanics literature on finger joint degrees of freedom
-- Research on existing bionic/prosthetic hand designs (e-NABLE, InMoov, etc.)
+- Research on existing bionic/prosthetic hand designs (Academic papers on google.)
 
 ### Video Resources
 - Fusion 360 joint and assembly tutorials (YouTube)
@@ -175,8 +173,6 @@ See [`ROADMAP.md`](ROADMAP.md) for the full development plan.
 - [ ] Improve joint tolerances for cleaner motion simulation
 
 **Medium-term:**
-- [ ] CMC joints for 4th and 5th fingers (Stage 3)
-- [ ] Full hand assembly (Final Stage)
 - [ ] Export STL files for 3D printing viability check
 
 **Long-term:**
@@ -192,10 +188,5 @@ This is an ongoing academic/personal robotics project. If you have suggestions o
 
 ---
 
-## 📝 License
 
-This project is open for educational and non-commercial use. See [LICENSE](LICENSE) for details.
 
----
-
-*Designed with precision. Built to move.*
