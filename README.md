@@ -24,6 +24,16 @@ The hand geometry and proportions are **approximate**, referenced from my own ha
 
 ![Joint Animation](assets/renders/joint_animation.gif)
 
+## 📸 Views
+
+| Front | Back |
+|---|---|
+| ![Front View](assets/renders/front_view.png) | ![Back View](assets/renders/back_view.png) |
+
+| Isometric 1 | Isometric 2 |
+|---|---|
+| ![Iso View 1](assets/renders/iso_view_1.png) | ![Iso View 2](assets/renders/iso_view_2.png) |
+
 ## 🗂️ Repository Structure
 
 ```
@@ -37,7 +47,7 @@ bionic-hand/
 │
 ├── 📁 assets/
 │   ├── renders/                   # Screenshots and rendered images
-│   └── diagrams/                  # Joint diagrams, anatomy references
+│   └── diagrams/                  # Joint diagrams
 │
 ├── 📁 docs/
 │   ├── research.md                # Research notes and references
