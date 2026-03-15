@@ -22,12 +22,11 @@ The hand geometry and proportions are **approximate**, referenced from my own ha
 
 ## 🖼️ Preview
 
-> *(Add renders/screenshots of your Fusion 360 model here)*
+![Bionic Hand](renders/preview.png)
 
-```
-📁 /assets/renders/     ← Place your Fusion 360 screenshots & exports here
-```
+## ⚙️ Joint Animation
 
+![Flexion and Extension](assets/renders/joint_animation.mp4)
 ---
 
 ## 🗂️ Repository Structure
