@@ -39,14 +39,14 @@ The hand geometry and proportions are **approximate**, referenced from my own ha
 ```
 bionic-hand/
 │
-├── 📁 cad/                        # Fusion 360 source files (.f3d / .f3z)
+├── 📁 cad/                        # Fusion 360 source files (.STEP / .f3z)
 │   ├── fingers/                   # Individual finger component files
 │   ├── thumb/                     # Thumb assembly files
 │   ├── palm/                      # Palm and carpometacarpal joints
 │   └── assembly/                  # Full hand assembly
 │
 ├── 📁 assets/
-│   ├── renders/                   # Screenshots and rendered images
+│   ├── renders/                   # (.stl files) and Screenshots and rendered images
 │   └── diagrams/                  # Joint diagrams
 │
 ├── 📁 docs/
