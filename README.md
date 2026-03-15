@@ -22,13 +22,7 @@ The hand geometry and proportions are **approximate**, referenced from my own ha
 
 ## 🖼️ Preview
 
-![Bionic Hand](renders/preview.png)
-![Flexion and Extension video](assets/renders/joint_animation.mp4)
-
-## ⚙️ Joint Animation
-
-![Flexion and Extension Video ](assets/renders/joint_animation.mp4)
----
+![Joint Animation](assets/renders/joint_animation.gif)
 
 ## 🗂️ Repository Structure
 
