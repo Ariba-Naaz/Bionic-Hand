@@ -32,7 +32,7 @@ The hand geometry and proportions are **approximate**, referenced from my own ha
 
 | Isometric 1 | Isometric 2 |
 |---|---|
-| ![Iso View 1](assets/renders/iso_view.png) | ![Iso View 2](assets/renders/iso_view_2.png) |
+| ![Iso View 1](assets/renders/iso_view.png) | ![Iso View 2](assets/renders/iso_view2.png) |
 
 ## 🗂️ Repository Structure
 
