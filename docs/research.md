@@ -50,7 +50,6 @@ All primary dimensions used in this CAD model are derived from direct measuremen
 ### Biomechanics & Anthropometry
 - Studies on average human hand proportions and phalanx length ratios
 - Range-of-motion data for finger and thumb joints from biomechanics literature
-- Anthropometric databases (used for cross-validating self-measured dimensions)
 
 ### Prosthetics & Bionic Hand Research
 - Published designs of open-source prosthetic hands:
