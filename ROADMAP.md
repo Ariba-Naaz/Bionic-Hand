@@ -4,7 +4,7 @@ This document outlines the planned development stages for the Bionic Hand CAD pr
 
 ---
 
-## ✅ Stage 1 — Finger Design *(Complete)*
+## ✅ Stage 1 — Finger Design 
 
 **Goal:** Model all four fingers with functional flexion and extension.
 
@@ -16,7 +16,7 @@ This document outlines the planned development stages for the Bionic Hand CAD pr
 
 ---
 
-## 🔄 Stage 2 — Thumb Design *(Up Next)*
+## 🔄 Stage 2 — Thumb Design
 
 **Goal:** Fully articulated thumb with all natural degrees of freedom.
 
