@@ -50,7 +50,6 @@ bionic-hand/
 │   └── diagrams/                  # Joint diagrams
 │
 ├── 📁 docs/
-│   ├── research.md                # Research notes and references
 │   ├── challenges.md              # Problems encountered & solutions
 │   └── dimensions.md              # Hand measurement data used
 │
